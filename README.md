@@ -22,4 +22,5 @@ The `/public/scripts/game.js` file is already set up with the minimum code requi
 
 ------------
 Not sure about other platforms :( Sorry
+
 Send me info and I'll fix it!
