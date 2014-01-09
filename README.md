@@ -1,6 +1,8 @@
 Quintus NodeJS Template
 =======================
 
+What's Quintus, you ask? [http://html5quintus.com/](http://html5quintus.com/)
+
 An easy-to-use template that is set up to host your Quintus project with NodeJS using Express.
 
 Includes Socket.IO on the server-side, and the [HiDPI polyfill](https://github.com/jondavidjohn/hidpi-canvas-polyfill) by Jonathan Johnson.
@@ -15,8 +17,9 @@ Type in `npm install` to have node's package manager install the packages refere
 
 Once it's finished, type in `node app.js` to start the server. It runs on [http://localhost:8082/](http://localhost:8082/) by default.
 
-The /public/scripts/game.js is already set up with the minimum code required to run quintus. 
+The `/public/scripts/game.js` file is already set up with the minimum code required to run quintus. 
 
 
+------------
 Not sure about other platforms :( Sorry
 Send me info and I'll fix it!
