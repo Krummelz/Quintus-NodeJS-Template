@@ -1,11 +1,11 @@
 Quintus NodeJS Template
 =======================
 
-What's Quintus, you ask? [http://html5quintus.com/](http://html5quintus.com/)
+[Quintus](http://html5quintus.com/) is an awesome HTML5 game engine.
 
-An easy-to-use template that is set up to host your Quintus project with NodeJS using Express.
+This is an easy-to-use template that is set up to host your Quintus project with NodeJS using Express.
 
-Includes Socket.IO on the server-side, and the [HiDPI polyfill](https://github.com/jondavidjohn/hidpi-canvas-polyfill) by Jonathan Johnson.
+Includes Socket.IO on the server-side, and the [HiDPI polyfill](https://github.com/jondavidjohn/hidpi-canvas-polyfill) by Jonathan Johnson on the client-side.
 
 
 Instructions
